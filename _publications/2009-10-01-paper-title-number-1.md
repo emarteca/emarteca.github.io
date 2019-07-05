@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "North American invasion of Spotted-Wing Drosophila (Drosophila suzukii): A mechanistic model of population dynamics"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/ecologicalmodelling16.pdf
+excerpt: 'Temperature-based fruit fly population modelling; work when I was a research assistant in undergrad (I did the math).'
+date: 2016-05-24
+venue: 'Ecological Modelling'
+paperurl: 'http://emarteca.github.io/files/ecologicalmodelling.pdf'
+citation: 'Langille, Aaron B., Ellen M. Arteca, Geraldine D. Ryan, Lisa M. Emiljanowicz, and Jonathan A. Newman. &quot;North American invasion of Spotted-Wing Drosophila (Drosophila suzukii): a mechanistic model of population dynamics.&quot; <i>Ecological modelling<i> 336 (2016): 70-81.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Temperature-based fruit fly population modelling; work from when I was a research assistant in undergrad (I did the math).
+[Download paper here](http://emarteca.github.io/files/ecologicalmodelling16.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
