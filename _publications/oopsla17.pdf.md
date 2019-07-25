@@ -4,6 +4,7 @@ collection: publications
 excerpt: 'Taking advantage of existing VM typechecks to minimize runtime typechecks, resulting in a more performant gradually typed JavaScript.'
 date: 2017-10-27
 venue: 'Proc. ACM Programming Languages, OOPSLA'
+paperurl: 'http://emarteca.github.io/files/oopsla17.pdf'
 ---
 Taking advantage of existing VM typechecks to minimize runtime typechecks, resulting in a more performant gradually typed JavaScript.
 

@@ -4,6 +4,7 @@ collection: publications
 excerpt: 'Introducing nondeterministic semantics to allow us some metatheory in a well typed language with a foreign function interface, without requiring the full semantics of the foreign language.'
 date: 2019-07-13
 venue: 'ECOOP'
+paperurl: 'http://emarteca.github.io/files/ecoop19.pdf'
 ---
 Introducing nondeterministic semantics to allow us some metatheory in a well typed language with a foreign function interface, without requiring the full semantics of the foreign language.
 

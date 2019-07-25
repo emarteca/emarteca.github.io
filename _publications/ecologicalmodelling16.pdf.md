@@ -4,6 +4,7 @@ collection: publications
 excerpt: 'Temperature-based fruit fly population modelling; work from when I was a research assistant in undergrad (I did the math).'
 date: 2016-05-24
 venue: 'Ecological Modelling'
+paperurl: 'http://emarteca.github.io/files/ecologicalmodelling16.pdf'
 ---
 Temperature-based fruit fly population modelling; work from when I was a research assistant in undergrad (I did the math).
 
