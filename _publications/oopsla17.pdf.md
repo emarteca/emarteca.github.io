@@ -4,8 +4,10 @@ collection: publications
 excerpt: 'Taking advantage of existing VM typechecks to minimize runtime typechecks, resulting in a more performant gradually typed JavaScript.'
 date: 2017-10-27
 venue: 'Proc. ACM Programming Languages, OOPSLA'
-paperurl: 'http://emarteca.github.io/files/oopsla17.pdf'
 ---
+
+<a href='http://emarteca.github.io/files/oopsla17.pdf'>Download paper here</a>
+
 Taking advantage of existing VM typechecks to minimize runtime typechecks, resulting in a more performant gradually typed JavaScript.
 
 Recommended citation: Richards, Gregor, Ellen Arteca, and Alexi Turcotte. "The VM already knew that: Leveraging compile-time knowledge to optimize gradual typing." <i>Proceedings of the ACM on Programming Languages 1, no. OOPSLA</i> (2017): 55.
