@@ -12,10 +12,9 @@ redirect_from:
 <style>p.nospace{ padding-top:-50}</style>
 
 # Ellen Arteca
-<p class="nospace">
-	<span style="color:gray">earteca [at] uwaterloo [dot] ca</span>
-</p>
+<span style="color:gray">earteca [at] uwaterloo [dot] ca</span>
 
+&nsbp;
 
 I am currently a reseach engineering intern at <span style="color:blue"><a href="https://semmle.com/">Semmle</a></span>, where I am working on the JavaScript analysis package of the <span style="color:blue"><a href="https://github.com/Semmle/ql/">QL</a></span> language.
 
