@@ -13,7 +13,7 @@ redirect_from:
 
 # Ellen Arteca
 <p class="nospace"></p>
-#### <span style="color:gray">ellen [dot] arteca [at] gmail [dot] com</span>
+### <span style="color:gray">ellen [dot] arteca [at] gmail [dot] com</span>
 
 &nbsp;
 &nbsp;
