@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Email me if you would like a pdf of any of the papers behind paywalls.
+Email me if you would like a pdf copy of any of the papers which are behind paywalls.
 
 <!-- {% if author.googlescholar %} -->
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.ca/citations?user=JP-gFuQAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 <!-- {% endif %} -->
 
 {% include base_path %}
