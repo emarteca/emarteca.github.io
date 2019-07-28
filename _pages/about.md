@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<style>p.nospace{ padding-top:-25}</style>
+<style>p.nospace{ padding-top:-50}</style>
 
 # Ellen Arteca
 <p class="nospace">
