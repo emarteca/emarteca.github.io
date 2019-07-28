@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 Email me if you would like a pdf copy of any of the papers which are behind paywalls.
-You can also find my articles on <u><a href="https://scholar.google.ca/citations?user=JP-gFuQAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+
+You can also find my articles on <span style="color:blue"><a href="https://scholar.google.ca/citations?user=JP-gFuQAAAAJ&hl=en">my Google Scholar profile</a></span>span>.
 
 {% include base_path %}
 
