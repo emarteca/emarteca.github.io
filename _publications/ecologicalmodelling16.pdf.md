@@ -1,7 +1,6 @@
 ---
 title: "North American invasion of Spotted-Wing Drosophila (Drosophila suzukii): A mechanistic model of population dynamics"
 collection: publications
-Email me if you would like a pdf of any of the papers behind paywalls.
 excerpt: 'Temperature-based fruit fly population modelling; work from when I was a research assistant in undergrad (I did the math).'
 date: 2016-05-24
 venue: 'Ecological Modelling'

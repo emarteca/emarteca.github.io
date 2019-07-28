@@ -74,7 +74,7 @@ for row, item in publications.iterrows():
     
     md += """collection: publications"""
 
-    md += "\nEmail me if you would like a pdf of any of the papers behind paywalls."
+    # md += "\nEmail me if you would like a pdf of any of the papers behind paywalls."
     
     # md += """\npermalink: /publications/""" + html_filename
     # print(html_filename)

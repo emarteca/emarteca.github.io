@@ -1,7 +1,6 @@
 ---
 title: "The VM Already Knew That: Leveraging Compile-Time Knowledge to Optimize Gradual Typing"
 collection: publications
-Email me if you would like a pdf of any of the papers behind paywalls.
 excerpt: 'Taking advantage of existing VM typechecks to minimize runtime typechecks, resulting in a more performant gradually typed JavaScript.'
 date: 2017-10-27
 venue: 'Proc. ACM Programming Languages, OOPSLA'
