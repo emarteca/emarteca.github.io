@@ -6,7 +6,7 @@ date: 2017-04-06
 venue: 'PeerJ'
 ---
 
-<a href='https://peerj.com/articles/3192/'>Download paper here</a>
+<a href='https://peerj.com/articles/3192/'>Access paper here</a>
 
 An application of the fruit fly population model, running it over various predicted temperature models to observe how the populations would respond to climate change.
 

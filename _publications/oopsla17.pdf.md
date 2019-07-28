@@ -6,7 +6,7 @@ date: 2017-10-27
 venue: 'Proc. ACM Programming Languages, OOPSLA'
 ---
 
-<a href='https://dl.acm.org/citation.cfm?id=3133879'>Download paper here</a>
+<a href='https://dl.acm.org/citation.cfm?id=3133879'>Access paper here</a>
 
 Taking advantage of existing VM typechecks to minimize runtime typechecks, resulting in a more performant gradually typed JavaScript.
 

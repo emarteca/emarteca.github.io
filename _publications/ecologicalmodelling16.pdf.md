@@ -6,7 +6,7 @@ date: 2016-05-24
 venue: 'Ecological Modelling'
 ---
 
-<a href='https://www.sciencedirect.com/science/article/pii/S0304380016301946/'>Download paper here</a>
+<a href='https://www.sciencedirect.com/science/article/pii/S0304380016301946/'>Access paper here</a>
 
 Temperature-based fruit fly population modelling; work from when I was a research assistant in undergrad (I did the math).
 
