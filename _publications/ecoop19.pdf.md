@@ -1,12 +1,13 @@
 ---
 title: "Reasoning About Foreign Function Interfaces Without Modelling the Foreign Languages"
 collection: publications
+Email me if you would like a pdf of any of the papers behind paywalls.
 excerpt: 'Introducing nondeterministic semantics to allow us some metatheory in a well typed language with a foreign function interface, without requiring the full semantics of the foreign language.'
 date: 2019-07-13
 venue: 'ECOOP'
 ---
 
-<a href='http://emarteca.github.io/files/ecoop19.pdf'>Download paper here</a>
+<a href='http://drops.dagstuhl.de/opus/volltexte/2019/10808/'>Download paper here</a>
 
 Introducing nondeterministic semantics to allow us some metatheory in a well typed language with a foreign function interface, without requiring the full semantics of the foreign language.
 

@@ -1,12 +1,13 @@
 ---
 title: "The impacts of climate change on the abundance and distribution of the Spotted Wing Drosophila (Drosophila suzukii) in the United States and Canada"
 collection: publications
+Email me if you would like a pdf of any of the papers behind paywalls.
 excerpt: 'An application of the fruit fly population model, running it over various predicted temperature models to observe how the populations would respond to climate change.'
 date: 2017-04-06
 venue: 'PeerJ'
 ---
 
-<a href='http://emarteca.github.io/files/peerj17.pdf'>Download paper here</a>
+<a href='https://peerj.com/articles/3192/'>Download paper here</a>
 
 An application of the fruit fly population model, running it over various predicted temperature models to observe how the populations would respond to climate change.
 

@@ -73,6 +73,8 @@ for row, item in publications.iterrows():
     md = "---\ntitle: \""   + item.title + '"\n'
     
     md += """collection: publications"""
+
+    md += "\nEmail me if you would like a pdf of any of the papers behind paywalls."
     
     # md += """\npermalink: /publications/""" + html_filename
     # print(html_filename)
@@ -95,7 +97,7 @@ for row, item in publications.iterrows():
     ## Markdown description for individual page
     
     # if len(str(item.paper_url)) > 5:
-    md += "\n\n<a href='" + item.url_slug + "'>Download paper here</a>\n" 
+    md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
