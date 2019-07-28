@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "Ellen Arteca"
+subtitle: "test"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-# Ellen Arteca
+<!-- # Ellen Arteca
 #### ellen [dot] arteca [at] gmail [dot] com
-
+ -->
 &nbsp;
 &nbsp;
 
