@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+Email me if you would like a pdf of any of the papers behind paywalls.
+
+<!-- {% if author.googlescholar %} -->
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!-- {% endif %} -->
 
 {% include base_path %}
 
