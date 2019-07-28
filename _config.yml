@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ellen Arteca's homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ellen Arteca"
 description              : &description "PhD Student at Northeastern University"

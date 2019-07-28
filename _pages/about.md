@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Ellen Arteca"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -10,7 +10,8 @@ redirect_from:
 
 ### ellen [dot] arteca [at] gmail [dot] com
 
-## 
+\_
+\_
 
 
 I am currently a reseach engineering intern at <span style="color:blue"><a href="https://semmle.com/">Semmle</a></span>, where I am working on the JavaScript analysis package of the <span style="color:blue"><a href="https://github.com/Semmle/ql/">QL</a></span> language.
