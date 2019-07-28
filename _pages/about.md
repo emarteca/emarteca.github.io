@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Ellen Arteca
-## ellen [dot] arteca [at] gmail [dot] com
+#### ellen [dot] arteca [at] gmail [dot] com
 
 &nbsp;
 &nbsp;
