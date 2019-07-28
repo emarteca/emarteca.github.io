@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ellen Arteca"
-subtitle: "test"
+title: ""
+subtitle: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -9,9 +9,12 @@ redirect_from:
   - /about.html
 ---
 
-<!-- # Ellen Arteca
+<style>p.nospace{ padding-bottom:-10}</style>
+
+# Ellen Arteca
+<p class="nospace"></p>
 #### ellen [dot] arteca [at] gmail [dot] com
- -->
+
 &nbsp;
 &nbsp;
 
