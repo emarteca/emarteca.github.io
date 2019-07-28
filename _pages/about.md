@@ -9,11 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-<style>p.nospace{ padding-bottom:-10}</style>
+<style>p.nospace{ padding-bottom:-20}</style>
 
 # Ellen Arteca
 <p class="nospace"></p>
-#### ellen [dot] arteca [at] gmail [dot] com
+#### <span style="color:gray">ellen [dot] arteca [at] gmail [dot] com</span>
 
 &nbsp;
 &nbsp;
