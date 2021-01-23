@@ -1,5 +1,5 @@
 ---
-title: "Learning How to Listen: Automatically FindingBug Patterns in Event-Driven JavaScript APIs"
+title: "Learning How to Listen: Automatically Finding Bug Patterns in Event-Driven JavaScript APIs"
 collection: publications
 excerpt: 'Large-scale static analysis of JavaScript code and development of statistical model to automatically determine dead event listener registrations in popular event-driven APIs.'
 date: 2021-12-30
