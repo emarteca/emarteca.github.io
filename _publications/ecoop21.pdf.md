@@ -2,7 +2,7 @@
 title: "Reducing Over-Synchronization in JavaScript Applications"
 collection: publications
 excerpt: 'Static side-effect analysis to identify independent asynchronous computations, and refactoring to reorder these statements and enable concurrent execution.'
-date: -- in submission -- 
+date: 2021
 venue: 'ECOOP'
 ---
 
