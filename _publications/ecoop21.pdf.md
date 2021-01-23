@@ -4,6 +4,7 @@ collection: publications
 excerpt: 'Static side-effect analysis to identify independent asynchronous computations, and refactoring to reorder these statements and enable concurrent execution.'
 date: 2021-12-31
 venue: 'ECOOP'
+custom_tag: 'In Submission to'
 ---
 
 <a href='http://emarteca.github.io/files/ecoop21.pdf'>Access paper here</a>
