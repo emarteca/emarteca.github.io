@@ -14,7 +14,9 @@ redirect_from:
 
 &nbsp;
 
-I'm a PhD student at Northeastern University, where I'm a part of the <span style="color:blue"><a href="https://prl.ccs.neu.edu/">Programming Languages lab</a></span> working with my advisor <span style="color:blue"><a href="https://www.franktip.org/">Frank Tip</a></span>. 
+This summer I'll be an applied science intern with the Automated Reasoning Group at <span style="color:blue"><a href="https://aws.amazon.com/">AWS Amazon</a></span>.
+
+During the year, I'm a PhD student at Northeastern University, where I'm a part of the <span style="color:blue"><a href="https://prl.ccs.neu.edu/">Programming Languages lab</a></span> working with my advisor <span style="color:blue"><a href="https://www.franktip.org/">Frank Tip</a></span>. 
 My PhD work has been focused on program analysis (mostly static) of JavaScript for optimization/refactoring/test generation.
 I've also recently started working on a tool for automatic analysis of <span style="color:blue"><a href="https://www.npmjs.com/">npm</a></span> packages.
 <!-- , with the end goal of a large-scale study on the state of the <span style="color:blue"><a href="https://nodejs.org/en/">nodejs</a></span> ecosystem. -->
