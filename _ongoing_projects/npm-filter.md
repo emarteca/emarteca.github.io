@@ -14,3 +14,6 @@ There are several main use cases:
 ### Current status
 The tool is working and currently being used internally to find candidate projects for evaluating other program analyses.
 We're still working on a large-scale analysis of npm, with the end goal of presenting a study on the state of the NodeJS ecosystem, and maybe hosting a parallel site to npm where users can search for packages matching certain criteria (e.g., packages with at least 10 passing tests, etc.).
+
+### Open sourced
+Check it out <span style="color:blue"><a href="https://github.com/emarteca/npm-filter">on GitHub</a></span>!

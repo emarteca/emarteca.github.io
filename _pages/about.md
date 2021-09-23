@@ -14,13 +14,14 @@ redirect_from:
 
 &nbsp;
 
-This summer I'll be an applied science intern with the Automated Reasoning Group at <span style="color:blue"><a href="https://aws.amazon.com/">AWS Amazon</a></span>.
-
 During the year, I'm a PhD student at Northeastern University, where I'm a part of the <span style="color:blue"><a href="https://prl.ccs.neu.edu/">Programming Languages lab</a></span> working with my advisor <span style="color:blue"><a href="https://www.franktip.org/">Frank Tip</a></span>. 
 My PhD work has been focused on program analysis (mostly static) of JavaScript for optimization/refactoring/test generation.
 I've also recently started working on a tool for automatic analysis of <span style="color:blue"><a href="https://www.npmjs.com/">npm</a></span> packages.
 <!-- , with the end goal of a large-scale study on the state of the <span style="color:blue"><a href="https://nodejs.org/en/">nodejs</a></span> ecosystem. -->
 
+This past summer 2021 I was an applied science intern with the Automated Reasoning Group at <span style="color:blue"><a href="https://aws.amazon.com/">AWS Amazon</a></span>, where I worked on a dataflow framework for SMT queries in Rust, so we could generate equisatisfiable queries with all string literals anonymized. 
+This project is open sourced! 
+Check it out at <span style="color:blue"><a href="https://github.com/awslabs/rust-smt-ir/tree/main/amzn-smt-string-transformer">awslabs/rust-smt-ir/amzn-smt-string-transformer</a></span>.
 
 In summer 2019 I was a reseach engineering intern at <span style="color:blue"><a href="https://semmle.com/">GitHub (Semmle)</a></span>, where I was working on the JavaScript analysis package of the <span style="color:blue"><a href="https://securitylab.github.com/tools/codeql/">CodeQL</a></span> language.
 
