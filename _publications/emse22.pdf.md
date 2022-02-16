@@ -2,7 +2,7 @@
 title: "Stubbifier: Debloating Dynamic JavaScript Applications"
 collection: publications
 excerpt: 'Debloating JavaScript applications by identifying untested code via a callgraph analysis, and replacing this code with stubs to dynamically load it if needed.'
-date: 2022-12-31
+date: 2022-12-30
 venue: 'ESME'
 custom_tag: 'In revisions at'
 ---
