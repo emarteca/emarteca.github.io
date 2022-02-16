@@ -2,9 +2,8 @@
 title: "Nessie: Automatically Testing JavaScript APIs with Asynchronous Callbacks"
 collection: publications
 excerpt: 'Test generation for JavaScript API functions with asynchronous callback arguments'
-date: 2021-12-30
+date: 2022-05-22
 venue: 'ICSE'
-custom_tag: 'In submission to'
 ---
 
 <a href='http://emarteca.github.io/files/icse22.pdf'>Access preprint here</a>
@@ -12,4 +11,4 @@ custom_tag: 'In submission to'
 Test generation for JavaScript API functions with asynchronous callback arguments.
 This is building off of previous work [LambdaTester](https://dl.acm.org/doi/pdf/10.1145/3276531), which was a test generator for higher-order JavaScript functions -- we are extending this to work with asynchronous callbacks.
 
-Recommended citation: Arteca, Ellen, Sebastian Harner, Michael Pradel, and Frank Tip. "Nessie: Automatically Testing JavaScript APIs with Asynchronous Callbacks." <i>In submission to Proceedings of the International Conference on Software Engineering, ICSE </i> (2021).
+Recommended citation: Arteca, Ellen, Sebastian Harner, Michael Pradel, and Frank Tip. "Nessie: Automatically Testing JavaScript APIs with Asynchronous Callbacks." <i>2022 44th International Conference on Software Engineering (ICSE)</i>. IEEE, 2022.
