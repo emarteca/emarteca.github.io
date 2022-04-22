@@ -7,6 +7,7 @@ venue: 'ECOOP'
 ---
 
 <a href='http://drops.dagstuhl.de/opus/volltexte/2019/10808/'>Access paper here</a>
+
 <a href='https://www.youtube.com/watch?v=1MS2Uv7GxSk&ab_channel=ECOOP'>Watch conference talk here</a>
 
 Introducing nondeterministic semantics to allow us some metatheory in a well typed language with a foreign function interface, without requiring the full semantics of the foreign language.

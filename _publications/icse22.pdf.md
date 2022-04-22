@@ -7,6 +7,7 @@ venue: 'ICSE'
 ---
 
 <a href='http://emarteca.github.io/files/icse22.pdf'>Access preprint here</a>
+
 <a href='https://www.youtube.com/watch?v=WGXYa4u9X2c'>Watch conference talk here</a>
 
 Test generation for JavaScript API functions with asynchronous callback arguments.

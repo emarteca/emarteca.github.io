@@ -14,9 +14,11 @@ redirect_from:
 
 &nbsp;
 
-During the year, I'm a PhD student at Northeastern University, where I'm a part of the <span style="color:blue"><a href="https://prl.ccs.neu.edu/">Programming Languages lab</a></span> working with my advisor <span style="color:blue"><a href="https://www.franktip.org/">Frank Tip</a></span>. 
-My PhD work has been focused on program analysis (mostly static) of JavaScript for optimization/refactoring/test generation.
-I've also recently started working on a tool for automatic analysis of <span style="color:blue"><a href="https://www.npmjs.com/">npm</a></span> packages.
+During the year, I'm a PhD candidate at Northeastern University, where I'm a part of the <span style="color:blue"><a href="https://prl.ccs.neu.edu/">Programming Languages lab</a></span> working with my advisor <span style="color:blue"><a href="https://www.franktip.org/">Frank Tip</a></span>. 
+For my PhD thesis work, I've been applying program analysis to large codebases, and amalgamating the results of these analyses to learn more than can be inferred from a single program.
+This is particularly relevant to JavaScript, a highly dynamic language with features that limits what can be learned with traditional program analysis.
+I've worked on inferring bug patterns in event listener registrations and object property accesses, and on building/seeding feedback-directed test generators for JavaScript.
+I've also built <span style="color:blue"><a href="https://github.com/emarteca/npm-filter/">a tool</a></span> for automating the mining of dynamic metadata in <span style="color:blue"><a href="https://www.npmjs.com/">npm</a></span> packages.
 <!-- , with the end goal of a large-scale study on the state of the <span style="color:blue"><a href="https://nodejs.org/en/">nodejs</a></span> ecosystem. -->
 
 This past summer 2021 I was an applied science intern with the Automated Reasoning Group at <span style="color:blue"><a href="https://aws.amazon.com/">AWS Amazon</a></span>, where I worked on a dataflow framework for SMT queries in Rust, so we could generate equisatisfiable queries with all string literals anonymized. 

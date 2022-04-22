@@ -2,7 +2,7 @@
 title: "npm-filter: Automating the mining of dynamic information from npm packages"
 collection: publications
 excerpt: 'Tool for automating the mining of dynamic information from npm packages and/or GitHub projects (in JavaScript/TypeScript)'
-date: 2022-12-31
+date: 2022-05-23
 venue: 'MSR'
 ---
 
