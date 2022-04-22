@@ -1,7 +1,7 @@
 ---
 title: "Enabling Additional Parallelism in Asynchronous JavaScript Applications"
 collection: publications
-excerpt: 'Static side-effect analysis to identify independent asynchronous computations, and refactoring to reorder these statements and enable concurrent execution. <a href='https://www.youtube.com/watch?v=RmP_nJmLeOY'>[talk]</a>'
+excerpt: 'Static side-effect analysis to identify independent asynchronous computations, and refactoring to reorder these statements and enable concurrent execution. [talk included]'
 date: 2021-05-04
 venue: 'ECOOP'
 ---

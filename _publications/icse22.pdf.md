@@ -1,7 +1,7 @@
 ---
 title: "Nessie: Automatically Testing JavaScript APIs with Asynchronous Callbacks"
 collection: publications
-excerpt: 'Test generation for JavaScript API functions with asynchronous callback arguments. <a href='https://www.youtube.com/watch?v=WGXYa4u9X2c'>[talk]</a>'
+excerpt: 'Test generation for JavaScript API functions with asynchronous callback arguments. [talk included]'
 date: 2022-05-22
 venue: 'ICSE'
 ---
