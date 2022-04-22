@@ -1,12 +1,13 @@
 ---
 title: "Nessie: Automatically Testing JavaScript APIs with Asynchronous Callbacks"
 collection: publications
-excerpt: 'Test generation for JavaScript API functions with asynchronous callback arguments'
+excerpt: 'Test generation for JavaScript API functions with asynchronous callback arguments. <a href='http://emarteca.github.io/files/icse22.pdf'>[talk]</a>'
 date: 2022-05-22
 venue: 'ICSE'
 ---
 
 <a href='http://emarteca.github.io/files/icse22.pdf'>Access preprint here</a>
+<a href='http://emarteca.github.io/files/icse22.pdf'>Watch conference talk here</a>
 
 Test generation for JavaScript API functions with asynchronous callback arguments.
 This is building off of previous work [LambdaTester](https://dl.acm.org/doi/pdf/10.1145/3276531), which was a test generator for higher-order JavaScript functions -- we are extending this to work with asynchronous callbacks.

@@ -4,7 +4,6 @@ collection: publications
 excerpt: 'Tool for automating the mining of dynamic information from npm packages and/or GitHub projects (in JavaScript/TypeScript)'
 date: 2022-12-31
 venue: 'MSR'
-custom_tag: 'In submission to'
 ---
 
 <a href='http://emarteca.github.io/files/msr22.pdf'>Access preprint here</a>
