@@ -23,6 +23,6 @@ There I built a dataflow framework for SMT queries in Rust, which is also open s
 ### GitHub (Semmle) -- Summer 2019
 
 I was a research engineer intern with <span style="color:blue"><a href="https://semmle.com/">GitHub (Semmle)</a></span>, working on the JavaScript analysis package of the <span style="color:blue"><a href="https://securitylab.github.com/tools/codeql/">CodeQL</a></span> language.
-This internship resulted in <span style="color:blue"><a href="https://emarteca.github.io/publications/tse22.pdf/"><a cool research paper></a></span> -- the code and experiments replication package is also <span style="color:blue"><a href="https://github.com/emarteca/JSEventAPIModelling"><open sourced></a></href>.
+This internship resulted in <span style="color:blue"><a href="https://emarteca.github.io/publications/tse22.pdf/"><a cool research paper></a></span> -- the code and experiments replication package is also <span style="color:blue"><a href="https://github.com/emarteca/JSEventAPIModelling"><open sourced></a></span>.
 
 
