@@ -13,11 +13,11 @@ I was a software engineering intern with the Android Rust (Android Security) tea
 
 This project is an ongoing open source project! 
 Check out the full design doc, which describes the changes to Miri (and corresponding additions to the Rust compiler).
-The design doc has <span style = "color:blue"><a href = "https://hackmd.io/eFY7Jyl6QGeGKQlJvBp6pw?view#Relevant-links"><a list of links to PRs></a></span>.
+The design doc has <span style="color:blue"><a href="https://hackmd.io/eFY7Jyl6QGeGKQlJvBp6pw?view#Relevant-links"><a list of links to PRs></a></span>.
 
 ### Amazon Web Services -- Summer 2021 
 
-I was an applied science intern with the Automated Reasoning Group at <span style="color:blue"><a href="https://aws.amazon.com/">AWS Amazon</a></span>.
+I was an applied science intern with the Automated Reasoning Group at <span style="color:blue"><a href="https://aws.amazon.com/">AWS (Amazon)</a></span>.
 There I built a dataflow framework for SMT queries in Rust, which is also open sourced: <span style="color:blue"><a href="https://github.com/awslabs/rust-smt-ir-examples/tree/main/amzn-smt-string-transformer>awslabs/rust-smt-ir-examples/amzn-smt-string-transformer</a></span>.
 
 ### GitHub (Semmle) -- Summer 2019
