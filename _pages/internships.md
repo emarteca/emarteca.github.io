@@ -13,7 +13,7 @@ I was a software engineering intern with the Android Rust (Android Security) tea
 
 This project is an ongoing open source project! 
 Check out the full design doc, which describes the changes to Miri (and corresponding additions to the Rust compiler).
-The design doc has <span style="color:blue"><a href="https://hackmd.io/eFY7Jyl6QGeGKQlJvBp6pw?view#Relevant-links"><a list of links to PRs></a></span>.
+The design doc has [a list of links to PRs](https://hackmd.io/eFY7Jyl6QGeGKQlJvBp6pw?view#Relevant-links).
 
 ### Amazon Web Services -- Summer 2021 
 
