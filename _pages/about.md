@@ -14,11 +14,7 @@ redirect_from:
 
 &nbsp;
 
-This summer 2022 I am a software engineering intern with the Android Rust (Android Security) team at Google, where I'm working on extending <span style="color:blue"><a href="https://github.com/rust-lang/miri">MIRI</a></span> with C FFI support.
-This project is an open source development! 
-Follow along at <span style="color:blue"><a href = "https://github.com/emarteca/miri/tree/track_through_ffi">emarteca/miri</a></span>.
-
-During the year, I'm a PhD candidate at Northeastern University, where I'm a part of the <span style="color:blue"><a href="https://prl.ccs.neu.edu/">Programming Languages lab</a></span> working with my advisor <span style="color:blue"><a href="https://www.franktip.org/">Frank Tip</a></span>. 
+I'm a PhD candidate at Northeastern University, where I'm a part of the <span style="color:blue"><a href="https://prl.ccs.neu.edu/">Programming Languages lab</a></span> working with my advisor <span style="color:blue"><a href="https://www.franktip.org/">Frank Tip</a></span>. 
 For my PhD thesis work, I've been applying program analysis to large codebases, and amalgamating the results of these analyses to learn more than can be inferred from a single program.
 This is particularly relevant to JavaScript, a highly dynamic language with features that limits what can be learned with traditional program analysis.
 I've worked on inferring bug patterns in event listener registrations and object property accesses, and on building/seeding feedback-directed test generators for JavaScript.
@@ -28,8 +24,6 @@ I've also built <span style="color:blue"><a href="https://github.com/emarteca/np
 
 &nbsp;
 &nbsp;
-
-I've done a couple other internships: summer 2021 I worked with the Automated Reasoning Group at <span style="color:blue"><a href="https://aws.amazon.com/">AWS Amazon</a></span> on a dataflow framework for SMT queries in Rust (open sourced: <span style="color:blue"><a href="https://github.com/awslabs/rust-smt-ir/tree/main/amzn-smt-string-transformer">awslabs/rust-smt-ir/amzn-smt-string-transformer</a></span>), and summer 2019 I worked with <span style="color:blue"><a href="https://semmle.com/">GitHub (Semmle)</a></span>, on the JavaScript analysis package of the <span style="color:blue"><a href="https://securitylab.github.com/tools/codeql/">CodeQL</a></span> language.
 
 Prior to this, I did my masters at the University of Waterloo in the <span style="color:blue"><a href="https://plg.uwaterloo.ca/">Programming Languages group</a></span>, where I worked with my advisor <span style="color:blue"><a href="http://the.gregor.institute/">Gregor Richards</a></span> on a technique for fast gradual typing using the virtual machine.
 My undergraduate was at Laurentian University, where my research was in computational ecology, in fruit fly population modelling (there was a time where I didn't work on programming languages!).
