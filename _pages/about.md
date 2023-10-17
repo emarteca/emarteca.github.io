@@ -13,12 +13,16 @@ redirect_from:
 <span style="color:gray">arteca.e [at] northeastern [dot] edu</span>
 
 &nbsp;
+I start at Google in December 2023.
 
-I'm a PhD candidate at Northeastern University, where I'm a part of the <span style="color:blue"><a href="https://prl.ccs.neu.edu/">Programming Languages lab</a></span> working with my advisor <span style="color:blue"><a href="https://www.franktip.org/">Frank Tip</a></span>. 
-For my PhD thesis work, I've been applying program analysis to large codebases, and amalgamating the results of these analyses to learn more than can be inferred from a single program.
-This is particularly relevant to JavaScript, a highly dynamic language with features that limits what can be learned with traditional program analysis.
-I've worked on inferring bug patterns in event listener registrations and object property accesses, and on building/seeding feedback-directed test generators for JavaScript.
-I've also built <span style="color:blue"><a href="https://github.com/emarteca/npm-filter/">a tool</a></span> for automating the mining of dynamic metadata in <span style="color:blue"><a href="https://www.npmjs.com/">npm</a></span> packages.
+&nbsp;
+
+I recently got my PhD from Northeastern University, working with my advisor <span style="color:blue"><a href="https://www.franktip.org/">Frank Tip</a></span>. 
+For my PhD thesis work, I worked on program analysis of JavaScript.
+Mainly, I was working around the limitations on what we can infer from a ssingle program in such a dynamic language by applying program analysis to large codebases, and amalgamating the results of these analyses to learn patterns (both bugs and correct API usages).
+My favourite projects I built as part of my research are 
+* <span style="color:blue"><a href="https://github.com/emarteca/nessie/">a feedback- and mined-data-directed test generator</a></span> for JavaScript, and
+* <span style="color:blue"><a href="https://github.com/emarteca/npm-filter/">a tool</a></span> for automating the mining of dynamic metadata in <span style="color:blue"><a href="https://www.npmjs.com/">npm</a></span> packages.
 <!-- , with the end goal of a large-scale study on the state of the <span style="color:blue"><a href="https://nodejs.org/en/">nodejs</a></span> ecosystem. -->
 
 
