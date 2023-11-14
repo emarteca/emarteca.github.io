@@ -3,6 +3,7 @@ title: "A statistical approach for finding property-access errors"
 collection: publications
 excerpt: 'Large-scale static analysis of JavaScript code and development of statistical model to automatically determine incorrect property accesses, and client analysis to identify true positives in code bases (adaption of the event-listener registration error pattern detection approach).'
 date: 2023-06-14
+venue: ''
 custom_tag: 'arXiv preprint'
 ---
 
