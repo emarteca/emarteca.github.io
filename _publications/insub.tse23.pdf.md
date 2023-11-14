@@ -3,7 +3,8 @@ title: "The effects of computational resources on flaky tests"
 collection: publications
 excerpt: 'A tool for automatic identification of Resource-Affected Flaky tests (in Java, Python, and JavaScript code bases), and reporting resource configurations in which tests are (most) stable.'
 date: 2023-10-18
-venue: 'In submission to IEEE TSE'
+venue: 'IEEE TSE'
+custom_tag: 'In submission to'
 ---
 
 <a href='https://arxiv.org/pdf/2310.12132.pdf'>Access preprint here</a>
