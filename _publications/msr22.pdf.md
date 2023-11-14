@@ -8,6 +8,8 @@ venue: 'MSR'
 
 <a href='http://emarteca.github.io/files/msr22.pdf'>Access preprint here</a>
 
+<a href='https://www.youtube.com/watch?v=CYp_jnWzMFw&ab_channel=AlexiTurcotte'>Watch conference talk here</a>
+
 Tool for automating the mining of dynamic information from npm packages and/or GitHub projects (in JavaScript/TypeScript).
 In particular, it automates the mining of install/build instructions, test suite execution, number of passing/failing tests, etc.
 It also allows users to run custom scripts or static analyses in CodeQL over the source code of the packages.

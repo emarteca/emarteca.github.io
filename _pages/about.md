@@ -18,7 +18,7 @@ I start at Google in December 2023.
 &nbsp;
 
 I recently got my PhD from Northeastern University, working with my advisor <span style="color:blue"><a href="https://www.franktip.org/">Frank Tip</a></span>. 
-My PhD thesis research was on program analysis of JavaScript.
+My <span style="color:blue"><a href="https://repository.library.northeastern.edu/files/neu:4f214s21k/fulltext.pdf">PhD thesis</a></span> research was on program analysis of JavaScript.
 Mainly, I was working around the limitations on what we can infer from a single program in such a dynamic language by applying program analysis to large codebases, and amalgamating the results of these analyses to learn patterns (both bugs and correct API usages).
 My favourite projects I built as part of my research are 
 * <span style="color:blue"><a href="https://github.com/emarteca/nessie/">a feedback- and mined-data-directed test generator</a></span> for JavaScript, and
