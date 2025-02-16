@@ -13,7 +13,7 @@ redirect_from:
 <span style="color:gray">arteca.e [at] northeastern [dot] edu</span>
 
 &nbsp;
-I start at Google in December 2023.
+I'm a software engineer on the Android Security Rust team at Google.
 
 &nbsp;
 
